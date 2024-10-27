@@ -1,0 +1,23 @@
+﻿  Test.cpp
+emcc : warning : linker setting ignored during compilation: 'FORCE_FILESYSTEM' [-Wunused-command-line-argument]
+  C:\Dev\Engine\src\Test.cpp(1): includes this header: 
+C:\Dev\Engine\src\Test.h(6,13): warning : __declspec attribute 'dllexport' is not supported [-Wignored-attributes]
+      6 |         __declspec(dllexport) void Print();
+        |                    ^~~~~~~~~
+C:\Dev\Engine\src\Test.cpp(8,19): warning : trigraph ignored [-Wtrigraphs]
+      8 |                 printf("Welcome???! \n");
+        |                                 ^
+  2 warnings generated.
+  Main.cpp
+emcc : warning : linker setting ignored during compilation: 'FORCE_FILESYSTEM' [-Wunused-command-line-argument]
+  C:\Dev\EmscriptenSandbox\Main.cpp(3): includes this header: 
+C:\Dev\Engine\src\Test.h(6,13): warning : __declspec attribute 'dllexport' is not supported [-Wignored-attributes]
+      6 |         __declspec(dllexport) void Print();
+        |                    ^~~~~~~~~
+  1 warning generated.
+  LLD 20.0.0 (C:swircachegitchromium.googlesource.com-external-github.com-llvm-llvm--project 7543d09b852695187d08aa5d56d50016fea8f706)
+wasm-ld : warning : C:/Dev/Engine/bin/Debug-x64/Engine/Engine.lib: archive member 'Engine.dll' is neither Wasm object file nor LLVM bitcode
+wasm-ld : warning : C:/Dev/Engine/bin/Debug-x64/Engine/Engine.lib: archive member 'Engine.dll' is neither Wasm object file nor LLVM bitcode
+wasm-ld : warning : C:/Dev/Engine/bin/Debug-x64/Engine/Engine.lib: archive member 'Engine.dll' is neither Wasm object file nor LLVM bitcode
+wasm-ld : warning : C:/Dev/Engine/bin/Debug-x64/Engine/Engine.lib: archive member 'Engine.dll' is neither Wasm object file nor LLVM bitcode
+  EmscriptenSandbox.vcxproj -> C:\Dev\Engine\bin\Debug-Emscripten\EmscriptenSandbox\EmscriptenSandbox.html

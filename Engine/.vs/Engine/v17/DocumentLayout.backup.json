@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\Engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2488984-5976-45EF-9C5A-BB51616F6B56}|..\\EmscriptenSandbox\\EmscriptenSandbox.vcxproj|C:\\Dev\\EmscriptenSandbox\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2488984-5976-45EF-9C5A-BB51616F6B56}|..\\EmscriptenSandbox\\EmscriptenSandbox.vcxproj|C:\\Dev\\Engine\\src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2488984-5976-45EF-9C5A-BB51616F6B56}|..\\EmscriptenSandbox\\EmscriptenSandbox.vcxproj|solutionrelative:src\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E79EC8B-85DA-4C1C-A26B-1A50ECD725AE}|..\\Sandbox\\Sandbox.vcxproj|C:\\Dev\\Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "C:\\Dev\\Engine\\src\\Test.cpp",
+              "RelativeDocumentMoniker": "src\\Test.cpp",
+              "ToolTip": "C:\\Dev\\Engine\\src\\Test.cpp",
+              "RelativeToolTip": "src\\Test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T16:45:36.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Dev\\EmscriptenSandbox\\src\\Main.cpp",
+              "RelativeDocumentMoniker": "..\\EmscriptenSandbox\\src\\Main.cpp",
+              "ToolTip": "C:\\Dev\\EmscriptenSandbox\\src\\Main.cpp",
+              "RelativeToolTip": "..\\EmscriptenSandbox\\src\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T16:03:47.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Dev\\Sandbox\\src\\Application.cpp",
+              "RelativeDocumentMoniker": "..\\Sandbox\\src\\Application.cpp",
+              "ToolTip": "C:\\Dev\\Sandbox\\src\\Application.cpp",
+              "RelativeToolTip": "..\\Sandbox\\src\\Application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T16:01:57.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
