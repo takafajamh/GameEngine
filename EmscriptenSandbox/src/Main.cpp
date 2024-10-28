@@ -1,8 +1,24 @@
 ﻿#include <stdio.h>
 #include <emscripten.h>
-#include "Test.h"
+#include <SKEngine.h>
 
-int main() {
-	sk::Print();
-	return 0;
+
+class Sandbox : public sk::Application
+{
+public:
+	Sandbox()
+	{
+
+	}
+
+	~Sandbox()
+	{
+
+	}
+
+};
+
+sk::Application* sk::CreateApplication()
+{
+	return new Sandbox();
 }

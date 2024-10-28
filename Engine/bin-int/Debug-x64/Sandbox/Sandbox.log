@@ -1,1 +1,7 @@
-﻿  Sandbox.vcxproj -> C:\Dev\Engine\bin\Debug-x64\Sandbox\Sandbox.exe
+﻿  Sandbox.cpp
+C:\Dev\Engine\src\Engine\Core.h(5,10): warning C4005: "SK_PLATFORM_WINDOWS": ponowna definicja makra
+  (kompilowanie pliku źródłowego „src/Sandbox.cpp”)
+      C:\Dev\Engine\src\Engine\Core.h(5,10):
+      Element „SK_PLATFORM_WINDOWS“ został wcześniej zadeklarowany w wierszu polecenia
+  
+  Sandbox.vcxproj -> C:\Dev\Engine\bin\Debug-x64\Sandbox\Sandbox.exe

@@ -47,7 +47,7 @@
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\Engine\src\Test.cpp" />
+    <ClCompile Include="..\Engine\src\Engine\Application.cpp" />
     <ClCompile Include="src\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
